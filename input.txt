@@ -1,0 +1,79 @@
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS50_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS51_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS52_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS53_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS54_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS55_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS56_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS57_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
+
+
+@EligibilityBasedAtp04_TC03
+Scenario: EligibilityBasedAtp04_TC03_SS58_VerifySavrATP
+Description:
+Given I want to build the request with body
+When I submit the "POST" request
+Then The status code should be 200
+And The response body should be as expected
